@@ -46,11 +46,11 @@ Este site é um projeto simples, mas visualmente atraente, que permite aos membr
 
 1. Clone o repositório:
    
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Hexenherz/rpg_mesa.git
    
 2. Navegue até o diretório do projeto:
    
-   cd nome-do-repositorio
+   cd rpg_mesa.git
    
 3. Abra o arquivo index.html em seu navegador preferido.
 
