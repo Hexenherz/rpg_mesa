@@ -1,0 +1,47 @@
+.container {
+    display: block;
+}
+@font-face {
+    font-family: 'Allura'; 
+    src: url('../fontes/Allura-Regular.ttf'), format('truetype'), url('OldLondonAlternate.ttf') format('truetype');
+}
+body {
+    background-image: linear-gradient(to right, #000000, #000000b2, #000000) ;
+    font-size: 2em;
+    color: rgba(240, 248, 255, 0.87);
+}
+a {
+    text-decoration: none;
+    color: rgba(240, 248, 255, 0.87);
+}
+a:visited {
+    color: rgba(162, 163, 163, 0.692);
+}
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+a:active {
+    color: rgba(255, 0, 0, 0.452);
+}
+
+div > p {
+    display: none;
+}
+div:hover > p {
+    display: contents;
+    color: aliceblue;
+    background-color: black;
+    width: 300px;
+}
+div:hover {
+    color: red;
+}
+main {
+    text-align: center;
+}
+h1, li, p {
+    font-family: 'Allura', cursive;
+    text-shadow: 2px 2px 4px black;
+}
+
